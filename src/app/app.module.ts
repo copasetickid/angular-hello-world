@@ -10,6 +10,8 @@ import { UserListComponent } from './user-list/user-list.component';
   declarations: [
     AppComponent,
     HelloWorldComponent,
+    UserItemComponent,
+    UserListComponent
   ],
   imports: [
     BrowserModule
